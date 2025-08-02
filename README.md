@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-A dedicated full-stack developer with experience in building interfaces in the MERN Stack, with strong understanding of React architecture, Restful web services, and database design. I love crafting clean and simple tools. Always pushing myself to limits and also a huge coffee addict.
+Experienced Backend Engineer in a product-based environment with over 2 years of hands-on expertise in designing and building scalable systems. Specializes in working with large data, ETL tools, and AI-driven architectures. Strong fundamentals in system design and problem-solving, with a deep understanding of business requirements. 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [nikhil@wilayate.dev](mailto:nikhil@wilayate.dev)
