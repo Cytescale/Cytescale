@@ -24,27 +24,9 @@ Welcome to my GitHub profile! I'm a **Backend Engineer** with 2+ years of experi
 
 ---
 
-## 🌱 What I'm Currently Learning
-- **New AI tools** to power up data and make smarter systems 🤖
-- **Advanced Kubernetes Scaling** for even more resilient systems 🌐
-- **Machine Learning** models and their real-world applications 📚
-
----
-
-## 🔧 My Recent Projects
-- **AI Compensation Tool**: Built a tool for incentive analysis using **LangGraph** and **Mistral AI**, reducing dependency on BA/DA teams by 30%.  
-- **Real-Time Compensation System**: Designed a system that supports **30K+ users** daily, boosting **ARR**.  
-- **Distributed Batch Processing**: Improved architecture with **RabbitMQ** and **Event-Driven** models, reducing node crashes by 90%!  
-- **Database Migration**: Led migration from **MongoDB to PostgreSQL**, improving data processing speeds by **3x**!
-
----
-
 ## 📫 How to Reach Me
 - **Email**: [nikhil@wilayate.dev](mailto:nikhil@wilayate.dev)
 - **Website**: [www.wilayate.dev](https://www.wilayate.dev)
-- **GitHub**: [@Cytescale](https://github.com/Cytescale)
-- **LinkedIn**: [Nikhil Wilayate](https://www.linkedin.com/in/nikhil-wilayate/)
-
 ---
 
 ## 🏆 Fun Facts About Me
